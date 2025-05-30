@@ -1,4 +1,4 @@
 text1 = "Python3"
-print(text1.isalnum())  # True, because it contains letters and numbers only
+print(text1.isalnum())  
 text2 = "Python 3"
-print(text2.isalnum())  # False, because it contains a space
+print(text2.isalnum())  
